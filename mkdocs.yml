@@ -1,0 +1,7 @@
+site_name: mlopenfoam
+nav:
+  - Home: index.md
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+markdown_extensions:
+  - mdx_math
